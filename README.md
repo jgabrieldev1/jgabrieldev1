@@ -13,6 +13,8 @@ IT Assistant at Via Brasil MT<br>Software Engineering and HR Management Student 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jgabrieldev1&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 #  OS:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jgabrieldev1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
