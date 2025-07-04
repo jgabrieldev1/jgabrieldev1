@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT Assistant at Via Brasil MT<br>Software Engineering and HR Management Student focused on ITSM<br>DevOps Trainee
+IT Assistant<br>Software Engineering and HR Management Student focused on DevOps, SRE and SysAdmin<br>DevOps Trainee
 
 
 ## 🌐 Socials:
